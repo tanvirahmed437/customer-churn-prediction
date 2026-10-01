@@ -133,6 +133,31 @@ The final tuned Random Forest model achieved the following performance on the te
 | Recall    | 0.4278 |
 | F1 Score  | 0.5203 |
 | ROC-AUC   | 0.8396 |
+## Results Visualization
+
+### Churn Distribution
+
+![Churn Distribution](churn_distribution.png)
+
+### Contract Type vs Churn
+
+![Contract vs Churn](contract_vs_churn.png)
+
+### ROC Curve
+
+![ROC Curve](roc_curve.png)
+
+### Final Confusion Matrix
+
+![Confusion Matrix](final_confusion_matrix.png)
+
+### Feature Importance
+
+![Feature Importance](feature_importance.png)
+
+### Customer Risk Distribution
+
+![Risk Distribution](risk_distribution.png)
 
 ## Project Structure
 
