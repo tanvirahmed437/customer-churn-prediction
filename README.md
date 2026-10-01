@@ -139,21 +139,16 @@ The final tuned Random Forest model achieved the following performance on the te
 ```text
 customer-churn-prediction/
 │
-├── data/
-│   └── Dataset
-│
-├── notebooks/
-│   └── Customer_Churn_Prediction.ipynb
-│
-├── figures/
-│   ├── feature_importance.png
-│   └── risk_distribution.png
-│
-├── models/
-│   └── churn_model.pkl
-│
+├── Customer_Churn_Prediction.ipynb
+├── churn_distribution.png
+├── contract_vs_churn.png
+├── feature_importance.png
+├── final_confusion_matrix.png
+├── risk_distribution.png
+├── roc_curve.png
+├── churn_model.pkl
+├── .gitignore
 └── README.md
-```
 
 ## Business Application
 
