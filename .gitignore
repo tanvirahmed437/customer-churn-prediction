@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project dataset
+*.csv
+
+# macOS / Windows files
+.DS_Store
+Thumbs.db
